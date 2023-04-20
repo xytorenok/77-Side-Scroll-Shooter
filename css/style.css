@@ -1,0 +1,7 @@
+body{
+  cursor: none;
+}
+
+#colorInput{
+  position: absolute;
+}
